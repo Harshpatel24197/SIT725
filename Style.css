@@ -1,0 +1,13 @@
+body{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+
+}
+.waves-effect {
+        background-color: lightblue;  
+        border: 1px solid #ff8899;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
